@@ -174,7 +174,7 @@ void proceed_voting(string GRAPH_ADDRESS, string REQ_ADDRESS,
 
 		Voting* vote = new Voting(eval_table, weights, DECNUM, DECNUM);
 		winner = vote->voting(voting_method);
-        cout << "VRR proceed_voting(): voting process complete and winner selected" << "\n";
+		cout << "VRR proceed_voting(): voting process complete and winner selected" << "\n";
 		delete vote;
 		
 		//winner = requests[i]->type; // the winner set as the flow's owner
@@ -319,7 +319,7 @@ void proceed_voting(string GRAPH_ADDRESS, string REQ_ADDRESS,
 		{
 			happiness_sum += min_value[j] / eval_table[j][winner]; // the smaller value is better
 		}
-        happiness_avg = happiness_sum / DECNUM;
+		happiness_avg = happiness_sum / DECNUM;
 		happiness_sum_all += happiness_sum;
 
 		HA_LIST.push_back(happiness_avg);
