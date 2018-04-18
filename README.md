@@ -1,10 +1,10 @@
 # thesis-VSRA
-emulation works of the master thesis "Voting System in SDN Network Resource Allocation" submitted to UESTC  
-VSRA: Voting System in SDN Network Resource Allocation  
-VSRA includes three parts: VRR, NCV, VBR  
+The repository is emulation works of the master thesis "Voting System in SDN Network Resource Allocation" submitted to UESTC.  
+VSRA is the abbreviation of "Voting System in SDN Network Resource Allocation".  
+VSRA includes three parts, which are VRR, NCV, and VBR.  
 ## VRR
-VRR: voting algorithm in routing resource allocation  
+VRR represents voting algorithm in routing resource allocation.  
 ## NCV
-NCV: NFV service chain implement with voting algorithm  
+NCV represents NFV service chain implementation with voting algorithm.  
 ## VBR
-VBR: voting behavior research in voting algorithm scenarios  
+VBR represents voting behavior research in voting algorithm scenarios.  
