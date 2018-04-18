@@ -3,8 +3,8 @@ emulation works of the master thesis "Voting System in SDN Network Resource Allo
 VSRA: Voting System in SDN Network Resource Allocation  
 VSRA includes three parts: VRR, NCV, VBR  
 ## VRR
-VRR: Voting Algorithm in Routing Resource Allocation  
+VRR: voting algorithm in routing resource allocation  
 ## NCV
-NCV: NFV Service Chain Implement with Voting Algorithm  
+NCV: NFV service chain implement with voting algorithm  
 ## VBR
-VBR: Voting Behavior Research in Voting Algorithm Scenarios  
+VBR: voting behavior research in voting algorithm scenarios  
