@@ -1,0 +1,151 @@
+ID: 0
+SRC: 20 DST: 21 RATE: 7
+b f h i q s x y 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 
+ID: 1
+SRC: 22 DST: 28 RATE: 6
+e g k l n o s 
+deploy scheme:
+Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:0 
+ID: 2
+SRC: 30 DST: 25 RATE: 2
+t u 
+deploy scheme:
+Host:20 VM:14 Host:20 VM:14 
+ID: 3
+SRC: 22 DST: 27 RATE: 3
+b e g l n t y 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:14 Host:20 VM:0 
+ID: 4
+SRC: 30 DST: 16 RATE: 7
+a g i k m n r u w 
+deploy scheme:
+Host:20 VM:16 Host:20 VM:8 Host:20 VM:0 Host:20 VM:8 Host:20 VM:16 Host:20 VM:8 Host:20 VM:16 Host:20 VM:14 Host:20 VM:16 
+ID: 5
+SRC: 24 DST: 19 RATE: 2
+f i l m q 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:0 Host:20 VM:8 Host:20 VM:16 Host:20 VM:0 
+ID: 6
+SRC: 15 DST: 25 RATE: 5
+h l u x 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:8 Host:20 VM:14 Host:20 VM:0 
+ID: 7
+SRC: 23 DST: 17 RATE: 4
+g s t v x 
+ID: 8
+SRC: 28 DST: 24 RATE: 5
+c h i j l m n q u 
+ID: 9
+SRC: 27 DST: 29 RATE: 4
+d k r s w 
+ID: 10
+SRC: 18 DST: 21 RATE: 6
+d e g h o t u 
+ID: 11
+SRC: 27 DST: 16 RATE: 1
+y 
+deploy scheme:
+Host:20 VM:0 
+ID: 12
+SRC: 18 DST: 17 RATE: 4
+f q 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:0 
+ID: 13
+SRC: 24 DST: 30 RATE: 8
+a b d g j s v x y 
+deploy scheme:
+Host:20 VM:16 Host:20 VM:0 Host:19 VM:0 Host:19 VM:0 Host:19 VM:0 Host:19 VM:0 Host:19 VM:0 Host:19 VM:0 Host:19 VM:0 
+ID: 14
+SRC: 22 DST: 23 RATE: 8
+i o q s u 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:8 Host:19 VM:7 Host:19 VM:0 Host:19 VM:7 
+ID: 15
+SRC: 25 DST: 23 RATE: 8
+l 
+deploy scheme:
+Host:20 VM:8 
+ID: 16
+SRC: 17 DST: 15 RATE: 3
+j k l m n 
+ID: 17
+SRC: 30 DST: 18 RATE: 3
+h m t x 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:16 Host:20 VM:14 Host:20 VM:0 
+ID: 18
+SRC: 29 DST: 24 RATE: 7
+b j n v w 
+ID: 19
+SRC: 15 DST: 24 RATE: 6
+a j o 
+ID: 20
+SRC: 22 DST: 30 RATE: 1
+b d e g p q v y 
+ID: 21
+SRC: 17 DST: 22 RATE: 7
+a b i m 
+deploy scheme:
+Host:20 VM:16 Host:20 VM:0 Host:20 VM:0 Host:20 VM:16 
+ID: 22
+SRC: 18 DST: 28 RATE: 8
+b i m 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:0 Host:20 VM:16 
+ID: 23
+SRC: 28 DST: 30 RATE: 2
+f g j m y 
+ID: 24
+SRC: 24 DST: 18 RATE: 2
+c i k q r w y 
+ID: 25
+SRC: 19 DST: 27 RATE: 4
+m 
+deploy scheme:
+Host:20 VM:16 
+ID: 26
+SRC: 28 DST: 27 RATE: 5
+b i s 
+deploy scheme:
+Host:20 VM:0 Host:20 VM:0 Host:20 VM:0 
+ID: 27
+SRC: 30 DST: 27 RATE: 8
+c g l o 
+ID: 28
+SRC: 25 DST: 16 RATE: 4
+e n o r u w 
+deploy scheme:
+Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:16 Host:20 VM:14 Host:20 VM:16 
+ID: 29
+SRC: 18 DST: 20 RATE: 4
+b c l t v x 
+ID: 30
+SRC: 25 DST: 28 RATE: 5
+d i j l t w 
+ID: 31
+SRC: 29 DST: 20 RATE: 5
+i v 
+ID: 32
+SRC: 18 DST: 25 RATE: 7
+o 
+deploy scheme:
+Host:20 VM:8 
+ID: 33
+SRC: 26 DST: 28 RATE: 3
+a i k n o q s u w 
+deploy scheme:
+Host:20 VM:16 Host:20 VM:0 Host:20 VM:8 Host:20 VM:8 Host:20 VM:8 Host:20 VM:0 Host:20 VM:0 Host:20 VM:14 Host:20 VM:16 
+ID: 34
+SRC: 23 DST: 15 RATE: 9
+a b e j k l m o t 
+ID: 35
+SRC: 23 DST: 16 RATE: 5
+f g i k n q s u y 
+ID: 36
+SRC: 25 DST: 26 RATE: 6
+a c l t 
