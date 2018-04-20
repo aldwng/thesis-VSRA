@@ -1,0 +1,8 @@
+iterations: 10
+max voters: 20 max candidates: 40
+borda: 0.707392
+condorcet: 0.708791
+cumulative: 0.712264
+copeland: 0.708788
+schulze: 0.568118
+range: 0.713835

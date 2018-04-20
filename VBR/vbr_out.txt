@@ -1,0 +1,2 @@
+the number of voters: 30
+the number of candidates: 40
