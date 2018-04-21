@@ -89,11 +89,16 @@ public:
 			delete graph_algorithm;
 			graph = new SimpleFatTree(SIMPLEFATTREE_LEVEL, HOST_VOL, LINK_BASE_CAPACITY, VM_RCS);
 			graph_algorithm = new GraphAlgorithm(graph);
+			/*
 			for (int i = 0; i < entities.size(); i++)
 			{
 				entities[i]->graph = graph;
 				entities[i]->graph_algorithm = graph_algorithm;
 			}
+			*/
+			// when test JVP, shuold use below to renew the JVP object
+			delete entities[0];
+			entities[0] = new JVP(graph, graph_algorithm);
 		}
 		int deployed_num_sum = 0;
 		double deployed_rate_sum = 0.0;
